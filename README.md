@@ -20,6 +20,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=PHP&logoColor=white" />
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
 ## Github
