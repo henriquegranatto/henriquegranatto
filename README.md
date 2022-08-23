@@ -10,6 +10,9 @@
   <a href="https://exercism.org/profiles/HenriqueGranatto" target="_blank">
     <img src="https://img.shields.io/badge/EXERCISM.IO-604fcd?style=for-the-badge&logo=exercism&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.hackerrank.com/henrique_ramire1" target="_blank">
+    <img src="https://img.shields.io/badge/Hacker%20Rank-1ba94c?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
+  </a>
 </div><br/>
 
 ## Tecnologias
