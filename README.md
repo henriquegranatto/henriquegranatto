@@ -1,8 +1,15 @@
 ## Redes sociais
 
 <div style="display: inline_block">
-  <a href = "mailto:henrique.ramires.granatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-granatto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:henrique.ramires.granatto@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-granatto" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://exercism.org/profiles/HenriqueGranatto" target="_blank">
+    <img src="https://img.shields.io/badge/EXERCISM.IO-604fcd?style=for-the-badge&logo=exercism&logoColor=white" target="_blank">
+  </a>
 </div><br/>
 
 ## Tecnologias
